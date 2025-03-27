@@ -69,3 +69,6 @@ You can set up this script as a task in windows task scheduler, then it will be 
 - Click **OK** to save.
 - Enter your password if prompted.
 - Right-click the task and select **Run** to test.
+
+If everything worked, a powershell window should open that looks somewhat like this:
+![Create_Task_Success_Screen.png](pictures/Create_Task_Success_Screen.png)
